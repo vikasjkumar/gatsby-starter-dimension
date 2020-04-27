@@ -10,11 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Vikas Kumar</h1>
         <p>
-          Portfolio of a junior structural engineer with a strong interest in structural engineering, sustainable design, architecture and urban studies.{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
-          <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          Junior structural engineer with a strong interest in structural engineering, sustainable design, architecture and urban studies.
         </p>
       </div>
     </div>
