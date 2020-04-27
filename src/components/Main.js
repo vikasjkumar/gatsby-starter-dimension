@@ -91,7 +91,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Resume</h2>
+          <h2 className="major">About</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
@@ -147,6 +147,15 @@ class Main extends React.Component {
               </a>
             </li>
             <li>
+              <a href="https://codebushi.com" className="icon fa-facebook">
+                <span className="label">Facebook</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://codebushi.com" className="icon fa-instagram">
+                <span className="label">Instagram</span>
+              </a>
+            </li>
             <li>
               <a
                 href="https://github.com/vikasjkumar"
