@@ -41,9 +41,6 @@ class Main extends React.Component {
           <p>
             Generative Design.
           </p>
-          <p>
-            Check out my <a href="#work experiences"> work</a>.
-          </p>
           {close}
         </article>
 

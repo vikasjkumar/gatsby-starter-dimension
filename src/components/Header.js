@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Vikas Kumar</h1>
         <p>
-          Junior structural engineer interested in sustainable design, generative design and architecture.</p>
+          Junior structural engineer interested in <br></br> sustainable design, generative design and architecture.</p>
       </div>
     </div>
     <nav>
