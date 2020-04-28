@@ -21,7 +21,7 @@ const Header = props => (
               props.onOpenArticle('intro')
             }}
           >
-            Intro
+            Projects
           </button>
         </li>
         <li>
@@ -30,7 +30,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            Work
+            CV
           </button>
         </li>
         <li>
