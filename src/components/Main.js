@@ -28,7 +28,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Intro</h2>
+          <h2 className="major">Projects</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
@@ -62,7 +62,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Work Experiences</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
@@ -91,7 +91,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About</h2>
+          <h2 className="major">About Me/h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
