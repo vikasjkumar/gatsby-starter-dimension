@@ -56,13 +56,13 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Education
+            Education.
           </p>
           <p>
-            Skills
+            Skills.
           </p>
           <p>
-            Work Experiences
+            Work Experiences.
           </p>
           {close}
         </article>
@@ -79,7 +79,7 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Short Bio
+            Short Bio.
           </p>
           {close}
         </article>
