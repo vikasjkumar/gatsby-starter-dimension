@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Portfolio',
     author: 'Vikas Kumar',
-    description: 'Website to host my personal work portfolio as a junior strucutral engineer.',
+    description: 'Website to host my personal work portfolio as a project manager.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
