@@ -33,13 +33,10 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Structural Analysis.
+            Waterfall Project Management.
           </p>
           <p>
-            3D Modeling.
-          </p>
-          <p>
-            Generative Design.
+            Agile Project Management.
           </p>
           {close}
         </article>
